@@ -1,0 +1,19 @@
+{
+  "name": "physical_object_server",
+  "version": "1.0.0",
+  "description": "Is a central messaging server",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "dependencies": {
+    "socket.io": "^1.3.7"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "node",
+    "socket"
+  ],
+  "author": "Nikolai Bockholt",
+  "license": "ISC"
+}
